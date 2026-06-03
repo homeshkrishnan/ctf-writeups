@@ -29,7 +29,7 @@ Compiled code doesn't hide secrets from a debugger.
 
 ## Screenshots
 ![WASM in Sources Panel] 
-<img width="1364" height="651" alt="Screenshot 2026-06-03 140113" src="https://github.com/user-attachments/assets/76a4e05f-d7dc-4d69-b70d-3a15d6c1eab7" />
+![image alt](https://github.com/homeshkrishnan/ctf-writeups/blob/76af92235f43e102f7f86ce96d72ca16ae419d2d/images/assembly-1.png)
 
 ![Debugger Breakpoint] <img width="978" height="801" alt="Screenshot 2026-06-03 140123" src="https://github.com/user-attachments/assets/d821245c-3bc7-439c-a299-321d9cb5e3e5" />
 
