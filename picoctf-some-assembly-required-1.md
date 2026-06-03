@@ -28,5 +28,5 @@ Compiled code doesn't hide secrets from a debugger.
 - Breakpoint on WASM function
 
 ## Screenshots
-![WASM in Sources Panel]([images/screenshot1.png](https://github.com/homeshkrishnan/ctf-writeups/blob/5c9edf9b55b888b3ac26f7f70c05c9710632b3be/images/Screenshot%202026-06-03%20140113.png))
+![WASM in Sources Panel](images/Screenshot 2026-06-03 140113.png)
 ![Debugger Breakpoint](images/screenshot2.png)
