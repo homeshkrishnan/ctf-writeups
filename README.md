@@ -16,10 +16,10 @@ Collection of cybersecurity challenge solutions and penetration testing practice
 
 ## Writeups
 
-| Challenge | Platform | Category | Date |
-|-----------|----------|----------|------|
-| Some Assembly Required 1 | picoCTF | Web Exploitation | April 2026 |
-| JaWT Scratchpad | picoCTF | Web Exploitation | April 2026 |
+| Challenge | Platform | Category |
+|-----------|----------|----------|
+| Some Assembly Required 1 | picoCTF | Web Exploitation |
+| JaWT Scratchpad | picoCTF | Web Exploitation |
 
 ---
 
