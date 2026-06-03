@@ -1,5 +1,9 @@
 # picoCTF: Some Assembly Required 1
 
+**Difficulty:** Medium  
+**Category:** Web Exploitation   
+**Summary:** Extract flag via browser DevTools WASM debugging
+
 ## Challenge
 Web exploitation with WebAssembly. Find flag via client-side debugging.
 
