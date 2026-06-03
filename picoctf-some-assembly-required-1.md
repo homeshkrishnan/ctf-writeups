@@ -26,3 +26,7 @@ Compiled code doesn't hide secrets from a debugger.
 - Firefox DevTools
 - Sources panel debugger
 - Breakpoint on WASM function
+
+## Screenshots
+![WASM in Sources Panel](images/screenshot1.png)
+![Debugger Breakpoint](images/screenshot2.png)
